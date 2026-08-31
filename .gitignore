@@ -1,1 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
 
+# Jupyter
+.ipynb_checkpoints/
+
+# STM32
+Debug/
+Release/
+*.launch
+
+# VS Code
+.vscode/
+
+# Build
+build/
+
+# Models
+*.h5
+*.pt
+
+# Data
+datasets/prototype/raw/*
+!datasets/prototype/raw/.gitkeep
