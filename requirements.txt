@@ -1,1 +1,11 @@
-
+numpy
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+tensorflow
+streamlit
+pyserial
+librosa
+jupyter
